@@ -2,30 +2,21 @@
 
 ---
 
-### Category Name 1 
+### D-Optimal Design from Scatch - PK Study Optimization
+*<span style="color:lightblue">Optimal Design</span> | 
+<span style="color:lightblue">Pharmacometrics</span> | 
+<span style="color:lightblue">Fisher Information Matrix </span>*
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+D-optimal design is a method for selecting the most efficient experimental design based on the Fisher information matrix. By replicating the warfarin example using Python, this project will help to better understand the concepts involved in optimal design, such as Fisher information matrix and D-optimal criterion. 
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sampling Schedule Optimization](https://github.com/pengmanhht/PM-Notes/blob/main/optimize_sampling_schedule.ipynb)
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dose Optimization](https://github.com/pengmanhht/PM-Notes/blob/main/optimize_dose.ipynb)
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<img src="images/optimize_sample_schedule.png?raw=true"/>
 
 ---
+
 
 
 
