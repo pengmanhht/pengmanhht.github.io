@@ -17,6 +17,16 @@ D-optimal design is a method for selecting the most efficient experimental desig
 
 ---
 
+### Taylor Series Approximation
+*<span style="color:lightblue">Pharmacometrics</span> | 
+<span style="color:lightblue">First Order Approximation</span> | 
+<span style="color:lightblue">Laplacian Approximation</span>*
+
+In the realm of pharmacometrics, approximations are often the unsung heroes. They allow us to tackle complex problems with simplified models, saving time and resources while still yielding valuable insights. We'll delve into two powerful players: First-Order Approximation and Laplacian Approximation.
+
+[Taylor Series Approximation](https://github.com/pengmanhht/PM-Notes/blob/main/pmx/taylor_approximation.ipynb)
+
+<img src="images/taylor_approx.png?raw=true"/>
 
 
 
