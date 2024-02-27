@@ -1,14 +1,14 @@
 ## Portfolio
 
 ---
-### From RxODE To Python
+### Multiple-Dose Simulation
 *<span style="color:lightblue">Pharmacometrics</span> | 
 <span style="color:lightblue">PMx w/ Python</span> | 
-<span style="color:lightblue">Multiple Dose Simulation </span>*
+<span style="color:lightblue">PKPD Simulation </span>*
 
-In this notebook, I wish to replicate the example in [Introduction to RxODE](https://nlmixrdevelopment.github.io/RxODE/articles/RxODE-intro.html) with self-written python package, and I MADE IT! The entire process was exciting and rewarding, resulting in a couple of essential functions for multiple-dose PKPD data simulation.
+Multiple-dose PKPD simulation offers valuable insights into the behavior of drugs within the body over time and their corresponding effects. In this notebook, I wish to replicate the example in [Introduction to RxODE](https://nlmixrdevelopment.github.io/RxODE/articles/RxODE-intro.html) with self-written python functions based on [JAX](https://jax.readthedocs.io/en/latest/index.html), and I MADE IT! The entire process is exciting and rewarding, resulting in a couple of useful functions for multiple-dose PKPD data simulation.
 
-[From RxODE To Python](https://github.com/pengmanhht/PM-Notes/blob/main/pmx/RxODE_to_python_1.ipynb)
+[Multiple-Dose Simulation](https://github.com/pengmanhht/PM-Notes/blob/main/pmx/RxODE_to_python_1.ipynb)
 
 <img src="images/RxODE_intro.png?raw=true"/>
 ---
