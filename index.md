@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-### From RxODE To Python 1
+### From RxODE To Python
 *<span style="color:lightblue">Pharmacometrics</span> | 
 <span style="color:lightblue">PMx w/ Python</span> | 
 <span style="color:lightblue">Multiple Dose Simulation </span>*
