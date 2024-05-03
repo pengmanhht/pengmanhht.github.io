@@ -1,4 +1,13 @@
 ## Portfolio
+---
+### Dose Finding Simulation
+*<span style="color:lightblue">Pharmacometrics</span> | 
+<span style="color:lightblue">PMx w/ Python</span> | 
+<span style="color:lightblue">PKPD Simulation </span>*
+
+[Dose Finding Simulation](https://pengmanhht-dosefindingsimulator-app-8gc7e5.streamlit.app/)
+
+<img src="images/DoseFindingSimulation.png?raw=true"/>
 
 ---
 ### Multiple-Dose Simulation
