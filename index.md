@@ -1,5 +1,17 @@
 ## Portfolio
 ---
+### A Bayesian Perspective on Pharmacometrics: Understanding the Hierarchical Structure
+*<span style="color:lightblue">Pharmacometrics</span> | 
+<span style="color:lightblue">Bayesian</span> | 
+<span style="color:lightblue">Hierarchical Model</span>*
+
+Pharmacometrics traditionally relies on nonlinear mixed-effects models to quantify variability in the dose-exposure-response process across individuals. These models are foundational to tools like NONMEM, nlmixr, or Phoenix NLME. But what if we step back and reframe this modeling process through the lens of Bayesian statistics?
+
+[Bayesian Perspective on Pharmacometrics](https://github.com/pengmanhht/PM-Notes/blob/main/pmx/bayes_perspective.ipynb)
+
+<img src="images/pmx_dag.png?raw=true"/>
+
+---
 ### Dose Finding Simulation
 *<span style="color:lightblue">Pharmacometrics</span> | 
 <span style="color:lightblue">PMx w/ Python</span> | 
