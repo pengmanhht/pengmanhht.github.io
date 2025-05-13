@@ -7,7 +7,7 @@
 
 Pharmacometrics traditionally relies on nonlinear mixed-effects models to quantify variability in the dose-exposure-response process across individuals. These models are foundational to tools like NONMEM, nlmixr, or Phoenix NLME. But what if we step back and reframe this modeling process through the lens of Bayesian statistics?
 
-[Bayesian Perspective on Pharmacometrics](https://github.com/pengmanhht/PM-Notes/blob/main/pmx/bayes_perspective.ipynb)
+[Bayesian Perspective on Pharmacometrics](https://medium.com/@manpenghht/a-bayesian-perspective-on-pharmacometrics-understanding-the-hierarchical-structure-52e6f69839b4)
 
 <img src="images/pmx_dag.png?raw=true"/>
 
